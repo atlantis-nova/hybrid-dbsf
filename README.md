@@ -9,7 +9,7 @@ Note: This foruma was created as the first multimodal algorithm capable of combi
 <br><br>
 ![image](https://github.com/user-attachments/assets/36e12dba-670f-4e94-a031-8d586b4c02f3)
 
-### improvements
+### Limitations and Improvements
 The current implementation uses a sigma value of 3 as a replacement for minmax. This implementation, however, is based on the assumption that the cosine similarity score distribution is normal, which is never the case.<br>
 To obtain even better results, quantiles (respectively [99, 1] for the tail extremes of the distribution, should be used.
 
