@@ -19,6 +19,7 @@ To obtain even better results, quantiles (respectively [99, 1] for the tail extr
 - Epsilla [(link)](https://epsilla-inc.gitbook.io/epsilladb/epsilla-vector-database/advanced-topics/hybrid-search)
 - Qdrant [(link)](https://qdrant.tech/documentation/concepts/hybrid-queries/)
 - Weeaviate [(link)](https://haystack.deepset.ai/release-notes/2.3.0)
+- Julep-ai [(link)](https://github.com/julep-ai/julep/blob/704fdf9b3035263800408ac46b9708a973d26b59/agents-api/agents_api/models/docs/search_docs_hybrid.py#L15)
 - AutoRAG: Automated Framework for optimization of Retrieval Augmented Generation Pipeline [(link)](https://arxiv.org/html/2410.20878v1)
 
   ![image](https://github.com/user-attachments/assets/816af563-e139-40f4-9f80-565f41fccb47)<br>
