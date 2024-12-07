@@ -3,7 +3,7 @@ Algorithm: **distribution-based score fusion (also called DBSF, [hybrid-dbsf](ht
 Author: **Michelangiolo Mazzeschi**<br>
 Published: **2nd November 2023**
 
-***Note: According to this [peer-reviewed paper](https://arxiv.org/html/2410.20878v1), hybrid-dbsf is now **the top semantic search algorithm in the world**<br>
+***Note: According to this [arxiv paper](https://arxiv.org/html/2410.20878v1), hybrid-dbsf is now **the top semantic search algorithm in the world**<br>
 
 # hybrid-dbsf
 Implementation of the distribution-based score fusion search algorithm, please reference to the following [technical article](https://medium.com/plain-simple-software/distribution-based-score-fusion-dbsf-a-new-approach-to-vector-search-ranking-f87c37488b18).<br>
