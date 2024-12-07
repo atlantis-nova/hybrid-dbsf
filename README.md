@@ -23,3 +23,7 @@ To obtain even better results, quantiles (respectively [99, 1] for the tail extr
 
   ![image](https://github.com/user-attachments/assets/816af563-e139-40f4-9f80-565f41fccb47)<br>
   In the paper it is shown as #1 performing algorithm for retrieval
+
+# license
+As for all my algorithms, I have chosen the license that (to the extent of my knowledge) should allow for the most open usage and personalization of this algorithm.<br>
+If that is not the case, please open an issue outlining the license limitations and I will do my best to apply the necessary changes to resolve them, as long as they align with the primary objectives of code democratization. 
