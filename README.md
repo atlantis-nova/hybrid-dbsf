@@ -4,7 +4,7 @@ Author: **Michelangiolo Mazzeschi**<br>
 Published: **2nd November 2023**
 
 # hybrid-dbsf
-Implementation of the distribution-based score fusion search algorithm, [reference technical article:](https://medium.com/plain-simple-software/distribution-based-score-fusion-dbsf-a-new-approach-to-vector-search-ranking-f87c37488b18).<br>
+Implementation of the distribution-based score fusion search algorithm, please reference to the following [technical article](https://medium.com/plain-simple-software/distribution-based-score-fusion-dbsf-a-new-approach-to-vector-search-ranking-f87c37488b18).<br>
 Note: This foruma was created as the first multimodal algorithm capable of combining images and text in the same search. However, it has been shown how it beats all existing benchmarks even in regular vector search, making it the #1 search algorithm.
 <br><br>
 ![image](https://github.com/user-attachments/assets/36e12dba-670f-4e94-a031-8d586b4c02f3)
