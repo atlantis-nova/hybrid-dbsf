@@ -22,7 +22,7 @@ To obtain even better results, quantiles (respectively [99, 1] for the tail extr
 - AutoRAG: Automated Framework for optimization of Retrieval Augmented Generation Pipeline [(link)](https://arxiv.org/html/2410.20878v1)
 
   ![image](https://github.com/user-attachments/assets/816af563-e139-40f4-9f80-565f41fccb47)<br>
-  In the paper it is shown as #1 performing algorithm for retrieval
+  In the paper it is depicted as the #1 known algorithm for retrieval
 
 # license
 As for all my algorithms, I have chosen the license that (to the extent of my knowledge) should allow for the most open usage and personalization of this algorithm.<br>
