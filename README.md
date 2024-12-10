@@ -1,13 +1,12 @@
 # Please cite
 Algorithm: **distribution-based score fusion (also called DBSF, [hybrid-dbsf](https://arxiv.org/html/2410.20878v1), [distribution-based rank fusion](https://github.com/deepset-ai/haystack/issues/7914))**<br>
-Author: **Michelangiolo Mazzeschi**<br>
+Author: **Michelangiolo Mazzeschi** - [original source](https://medium.com/plain-simple-software/distribution-based-score-fusion-dbsf-a-new-approach-to-vector-search-ranking-f87c37488b18)<br>
 Published: **2nd November 2023**
 
 ***Note: According to this [arxiv paper](https://arxiv.org/html/2410.20878v1), hybrid-dbsf is now **the top semantic search algorithm in the world**<br>
 
 # hybrid-dbsf
-Implementation of the distribution-based score fusion search algorithm, please reference to the following [technical article](https://medium.com/plain-simple-software/distribution-based-score-fusion-dbsf-a-new-approach-to-vector-search-ranking-f87c37488b18).<br>
-Note: This foruma was created as the first multimodal algorithm capable of combining images and text in the same search. However, it has been shown how it beats all existing benchmarks even in regular vector search, making it the #1 search algorithm (with new applications in RAG).
+Note: This formula was created as the first multimodal algorithm capable of combining **images and text** in the same search. However, it has been shown how it beats all existing benchmarks even in regular vector search, making it the #1 search algorithm (with new applications in RAG).
 <br><br>
 ![image](https://github.com/user-attachments/assets/36e12dba-670f-4e94-a031-8d586b4c02f3)
 
