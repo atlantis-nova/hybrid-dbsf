@@ -23,6 +23,7 @@ To obtain even better results, quantiles (respectively [99, 1] for the tail extr
 - Julep-ai [(link)](https://github.com/julep-ai/julep/blob/704fdf9b3035263800408ac46b9708a973d26b59/agents-api/agents_api/models/docs/search_docs_hybrid.py#L15)
 - Haystack [(link)](https://github.com/deepset-ai/haystack/issues/7914)
 - Upstash [(link)](https://upstash.com/docs/vector/features/hybridindexes)
+- Redis [(link)](https://github.com/redis-developer/hybrid-js)
 - AutoRAG: Automated Framework for optimization of Retrieval Augmented Generation Pipeline [(link)](https://arxiv.org/html/2410.20878v1)
 
   ![image](https://github.com/user-attachments/assets/816af563-e139-40f4-9f80-565f41fccb47)<br>
