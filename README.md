@@ -25,6 +25,7 @@ To obtain even better results, quantiles (respectively [99, 1] for the tail extr
 - Upstash [(link)](https://upstash.com/docs/vector/features/hybridindexes)
 - Redis [(link)](https://github.com/redis-developer/hybrid-js)
 - AutoRAG: Automated Framework for optimization of Retrieval Augmented Generation Pipeline [(link)](https://arxiv.org/html/2410.20878v1)
+- Stanford: VeriFact: Verifying Facts in LLM-Generated Clinical Text with Electronic Health Records [(link)](https://arxiv.org/abs/2501.16672#:~:text=VeriFact%20is%20an%20artificial%20intelligence,electronic%20health%20record%20(EHR).)
 
   ![image](https://github.com/user-attachments/assets/816af563-e139-40f4-9f80-565f41fccb47)<br>
   In the paper it is depicted as the #1 known algorithm for retrieval
