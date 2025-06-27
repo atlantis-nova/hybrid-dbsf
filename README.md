@@ -16,6 +16,7 @@ To obtain even better results, quantiles (respectively [99, 1] for the tail extr
 
 # citations
 
+- Stanford: VeriFact: Verifying Facts in LLM-Generated Clinical Text with Electronic Health Records [(link)](https://arxiv.org/abs/2501.16672#:~:text=VeriFact%20is%20an%20artificial%20intelligence,electronic%20health%20record%20(EHR).)
 - llama-index [(link)](https://docs.llamaindex.ai/en/stable/examples/retrievers/relative_score_dist_fusion/)
 - Epsilla [(link)](https://epsilla-inc.gitbook.io/epsilladb/epsilla-vector-database/advanced-topics/hybrid-search)
 - Qdrant [(link)](https://qdrant.tech/documentation/concepts/hybrid-queries/)
@@ -23,9 +24,8 @@ To obtain even better results, quantiles (respectively [99, 1] for the tail extr
 - Haystack [(link)](https://github.com/deepset-ai/haystack/issues/7914)
 - Upstash [(link)](https://upstash.com/docs/vector/features/hybridindexes)
 - Redis [(link)](https://github.com/redis-developer/hybrid-js)
+- Deepsense.ai - Ragbits: [(link)](https://github.com/deepsense-ai/ragbits/blob/b8610f11a28287f7d73345238a653b88feb52578/docs/how-to/vector_stores/hybrid.md?plain=1#L101)
 - AutoRAG: Automated Framework for optimization of Retrieval Augmented Generation Pipeline [(link)](https://arxiv.org/html/2410.20878v1)
-- Stanford: VeriFact: Verifying Facts in LLM-Generated Clinical Text with Electronic Health Records [(link)](https://arxiv.org/abs/2501.16672#:~:text=VeriFact%20is%20an%20artificial%20intelligence,electronic%20health%20record%20(EHR).)
-
   ![image](https://github.com/user-attachments/assets/816af563-e139-40f4-9f80-565f41fccb47)<br>
   In the paper it is depicted as the #1 known algorithm for retrieval
 
