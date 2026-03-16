@@ -26,6 +26,13 @@ To obtain even better results, quantiles (respectively [99, 1] for the tail extr
 - Deepsense.ai - Ragbits: [(link)](https://github.com/deepsense-ai/ragbits/blob/b8610f11a28287f7d73345238a653b88feb52578/docs/how-to/vector_stores/hybrid.md?plain=1#L101)
 - MixPeek: [(link)](https://mixpeek.com/docs/retrieval/stages/feature-search)
 
+# minor implementations
+- Connapse [(link)](https://github.com/Destrayon/Connapse)
+- clarity AI chat components [(link)](https://github.com/christireid/Clarity-ai-chat-components/pull/146)
+- Nextcloud MCP server [(link)](https://github.com/cbcoutinho/nextcloud-mcp-server/pull/316)
+- DocMind AI [(link)](https://github.com/BjornMelin/docmind-ai-llm/pull/37)
+- RAG anything [(link)](https://github.com/lfgranja/RAG-Anything/pull/9)
+
 # citations
 
 - Stanford: VeriFact: Verifying Facts in LLM-Generated Clinical Text with Electronic Health Records [(link)](https://arxiv.org/abs/2501.16672#:~:text=VeriFact%20is%20an%20artificial%20intelligence,electronic%20health%20record%20(EHR).)
