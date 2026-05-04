@@ -7,12 +7,20 @@ Published: **2nd November 2023**
 
 # hybrid-dbsf
 Note: This formula was created as the first multimodal algorithm capable of combining **images and text** in the same search. However, it has been shown how it beats all existing benchmarks even in regular vector search, making it the #1 search algorithm (with new applications in RAG).
-<br><br>
-![image](https://github.com/user-attachments/assets/36e12dba-670f-4e94-a031-8d586b4c02f3)
+<br>
+
+$$
+S'_{i} = \frac{x_i - (\mu - 3\sigma)}{(\mu + 3\sigma) - (\mu - 3\sigma)} = \frac{x_i - \mu + 3\sigma}{6\sigma}
+$$
 
 ### Limitations and Improvements
 The current implementation uses a sigma value of 3 as a replacement for minmax. This implementation, however, is based on the assumption that the cosine similarity score distribution is normal, which is never the case.<br>
 To obtain even better results, quantiles (respectively [99, 1] for the tail extremes of the distribution) should be used.
+<br>
+
+$$
+s'_{i} = \frac{x_i - P_{1}}{P_{99} - P_{1}}
+$$
 
 # implementations
 
