@@ -19,7 +19,7 @@ To obtain even better results, quantiles (respectively [99, 1] for the tail extr
 <br>
 
 $$
-s'_{i} = \frac{x_i - P_{1}}{P_{99} - P_{1}}
+S'_{i} = \frac{x_i - P_{1}}{P_{99} - P_{1}}
 $$
 
 # implementations
