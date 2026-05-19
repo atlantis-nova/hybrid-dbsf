@@ -40,7 +40,8 @@ $$
 - Nextcloud MCP server [(link)](https://github.com/cbcoutinho/nextcloud-mcp-server/pull/316)
 - DocMind AI [(link)](https://github.com/BjornMelin/docmind-ai-llm/pull/37)
 - RAG anything [(link)](https://github.com/lfgranja/RAG-Anything/pull/9)
-- agentic-rag-sdk [(link)](https://github.com/MattMagg/agentic-rag-sdk) 
+- agentic-rag-sdk [(link)](https://github.com/MattMagg/agentic-rag-sdk)
+- rankops (rust package) [(link)](https://docs.rs/rankops/latest/rankops/fn.dbsf.html)
 
 # citations
 
