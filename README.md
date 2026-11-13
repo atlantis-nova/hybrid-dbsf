@@ -33,6 +33,7 @@ $$
 - Redis [(link)](https://github.com/redis-developer/hybrid-js)
 - Deepsense.ai - Ragbits [(link)](https://github.com/deepsense-ai/ragbits/blob/b8610f11a28287f7d73345238a653b88feb52578/docs/how-to/vector_stores/hybrid.md?plain=1#L101)
 - MixPeek [(link)](https://mixpeek.com/docs/retrieval/stages/feature-search)
+- RushDb [(link)]([https://mixpeek.com/docs/retrieval/stages/feature-search](https://docs.rushdb.com/engine/indexes-and-search/hybrid-search/))
 
 # minor implementations
 - Connapse [(link)](https://github.com/Destrayon/Connapse)
